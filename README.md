@@ -1,2 +1,2 @@
 # algorithm
-Algorithm problems with 백준, SWEA, programmars
+Algorithm problems with 백준, SWEA, programmars, jungal
