@@ -10,8 +10,7 @@ public class Solution_2068 {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		int T = Integer.parseInt(br.readLine());
 		for (int i = 1; i <= T; i++) {
-			String[] arr = br.readLine().split("");
-			
+			String[] arr = br.readLine().split("");			
 			int max=Integer.parseInt(arr[0]);
 			for (int j = 0; j < 10; j++) {
 				if(max<=Integer.parseInt(arr[j])) {
